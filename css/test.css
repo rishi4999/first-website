@@ -1,0 +1,32 @@
+body{
+	background-color: LIGHTSALMON;
+}
+h1{
+	font-size: 30px;
+	color: teal;
+}
+
+h2{
+	color: red;
+	font-size: 40px;
+}
+
+h2{
+	color: green;
+}
+
+.big{
+	font-size: 60px;
+}
+
+.upper{
+	text-transform: uppercase;
+}
+
+.big.upper{
+	color: navy;
+}
+
+h1 span{
+	color: violet;
+}
